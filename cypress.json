@@ -1,5 +1,13 @@
 {
     "baseUrl": "http://localhost:3000",
     "viewportWidth": 1440,
-    "viewportHeight": 900
+    "viewportHeight": 900,
+    
+    "dbConfig": {
+        "host": "baasu.db.elephantsql.com",
+        "user": "ktxdenzp",
+        "password": "feUtOPT4Wwb0xfPjSRKb3CrvCKNgpSmH",
+        "database": "ktxdenzp",
+        "port": 5432
+    }
 }
